@@ -1,6 +1,18 @@
 # Loqa Site
 
-This repository contains the source for [ambiware.ai](https://ambiware.ai), the public website for Loqa Labs and the Loqa project. The site is built with Vue 3 (Composition API + TypeScript), Vite, Tailwind CSS, and Vue Router.
+> **Status**: Paused during Phase 1 (Meetings MVP development)
+
+This repository contains the source for [ambiware.ai](https://ambiware.ai), the public website for Loqa Labs and the Loqa project.
+
+**Current focus**: [loqa-meetings](https://github.com/loqalabs/loqa-meetings) - Building meeting transcription MVP
+
+The site will be updated after Phase 1 ships with:
+- Meeting transcription product page
+- Updated messaging (local-first, privacy-first)
+- Download/installation instructions
+- Obsidian integration details
+
+The site is built with Vue 3 (Composition API + TypeScript), Vite, Tailwind CSS, and Vue Router.
 
 ## Tech Stack
 
